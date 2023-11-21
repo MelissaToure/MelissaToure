@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mélissa. I am a passionante of the data world and it power 🚀✨ 
+My name is Mélissa. I am a passionante of the data world and its power 🚀✨ 
 
 <!--
 **MelissaToure/MelissaToure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
