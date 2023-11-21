@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MelissaToure !
-- 👀 I’m interested in data analatics and visualisation as I thrive on transforming datasets into actionable insights and visually compelling data narratives. 
-- 🎓 I’m recently graduated from CareerFoundry in Data Analyptics. 
-
+- A passionante of the data world and it power 🚀✨ 
 
 <!---
 MelissaToure/MelissaToure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
