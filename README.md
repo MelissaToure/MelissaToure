@@ -2,7 +2,7 @@
 
 > I am Mélissa. I am a French professional specialized in Data Analytics, currently based in Berlin. I am always on the lookout for new challenges and opportunities to expand my expertise in the dynamic field of data.
 >
-> ⚡️ Feel free to check out my recent projects !
+> 🌱 Feel free to check out my recent projects !
 
 <!--
 **MelissaToure/MelissaToure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
